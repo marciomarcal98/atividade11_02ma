@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-background: #27272a;
+    --text-color: #f4f4f5;
+}
+
+body {
+    background: var(--main-background);
+    color: var(--text-color);
+}
